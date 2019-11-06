@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3768884",
+      "name": "外星人",
+      "font_class": "waixingren",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    }
+  ]
+}
